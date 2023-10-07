@@ -11,7 +11,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./images/Screenshot%202023-10-07%20at%2015-13-32%20Frontend%20Mentor%20Clipboard%20landing%20page.png)
+![](./Screenshot%202023-10-07%20at%2015-13-32%20Frontend%20Mentor%20Clipboard%20landing%20page.png)
 
 ### Links
 
