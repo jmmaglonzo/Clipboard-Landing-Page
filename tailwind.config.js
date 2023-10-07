@@ -17,5 +17,6 @@ module.exports = {
       padding: "",
     },
   },
-  plugins: [],
+  plugins: ["prettier-plugin-tailwindcss"],
+  tailwindConfig: "./tailwind.config.js",
 };

@@ -11,15 +11,19 @@ body {
 }
 
 .flex-container {
-  @apply flex flex-col items-center justify-center px-8 pt-32 md:pt-0 md:h-screen;
+  @apply flex flex-col items-center justify-center px-8 h-screen pt-32 md:pt-0;
 }
-
 .buttons-container {
-  @apply flex flex-col space-x-0 space-y-4  md:flex-row md:space-x-4 md:space-y-0;
+  @apply flex flex-col space-x-0 space-y-4 w-full text-center justify-center md:flex-row md:space-x-4 md:space-y-0;
 }
 
 .buttons {
-  @apply px-8 py-3 text-white rounded-full  shadow-xl font-bold hover:opacity-80 duration-200;
+  @apply px-8 py-3 text-white rounded-full shadow-xl font-bold hover:opacity-80 duration-200 cursor-pointer active:translate-x-2 active:translate-y-2;
+}
+
+.ficon:hover {
+  filter: invert(53%) sepia(68%) saturate(434%) hue-rotate(121deg)
+    brightness(101%) contrast(94%);
 }
 
 @media (max-width: 768px) {
