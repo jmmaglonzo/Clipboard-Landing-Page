@@ -16,7 +16,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Github](https://github.com/jmmaglonzo/Clipboard-Landing-Page)
-- Live Site URL: [Github Pages](https://your-live-site-url.com)
+- Live Site URL: [Netlify](https://stellar-dieffenbachia-5892e1.netlify.app/)
 
 ## My process
 
